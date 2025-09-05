@@ -42,11 +42,4 @@ jobs:
           curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/$repo/contents/$file_path \
-            -d @- <<EOF
-{
-  "message": "Sync random part of JSON from source repo",
-  "content": "$content",
-  "sha": "$sha",
-  "branch": "$branch"
-}
-EOF
+            -d "{\"message\": \"Sync random part of JSON from source repo\", \"content\": \"$content\", \"sha\": \"$sha\", \"branch\": \"$branch\"}"
