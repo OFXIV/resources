@@ -11,22 +11,19 @@ jobs:
 
     steps:
       # 1. 下载源 JSON 文件
-      - name: Download source JSON
-        run: |
-          curl -H "Authorization: token ${{ secrets.SOURCES_PAT }}" \
-          -H "Accept: application/vnd.github.v3.raw" \
-          -o source.json \
-          https://api.github.com/repos/OFXIV/sources-private/contents/json/music.json?ref=main
-      - name: Test download
-        run: |
-          cat source.json
+      - name: Checkout source repo
+        uses: actions/checkout@v3
+        with:
+          repository: OFXIV/sources-private
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: source
 
       # 2. 随机抽取部分数组元素
       - name: Extract random part
         run: |
           node -e "
           const fs = require('fs');
-          const data = JSON.parse(fs.readFileSync('source.json', 'utf8'));
+          const data = JSON.parse(fs.readFileSync('source/json/music.json','utf8'));
           const n = 14; // 随机抽取数量，可修改
           const shuffled = data.sort(() => 0.5 - Math.random());
           const partial = shuffled.slice(0, n);
