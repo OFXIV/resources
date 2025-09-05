@@ -13,7 +13,7 @@ jobs:
       # 1. 下载源 JSON 文件
       - name: Download source JSON
         run: |
-          curl -sL -o source.json https://raw.githubusercontent.com/OFXIV/sources-private/main/json/music.json
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -sL -o source.json https://raw.githubusercontent.com/OFXIV/sources-private/main/json/music.json
 
       # 2. 随机抽取部分数组元素
       - name: Extract random part
