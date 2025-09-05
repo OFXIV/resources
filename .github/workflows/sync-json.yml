@@ -14,7 +14,7 @@ jobs:
       - name: Checkout source repo
         uses: actions/checkout@v3
         with:
-          repository: OFXIV/sources-private
+          repository: OFXIV/resources-private
           token: ${{ secrets.GITHUB_TOKEN }}
           path: source
 
