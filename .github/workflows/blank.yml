@@ -1,24 +1,16 @@
-name: Cron Test
+name: Test Cron
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
+    # 每天 UTC 时间 0 点执行一次
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 手动触发测试用
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: true  # 默认 true，用 GITHUB_TOKEN push
-
-      - name: Write timestamp
-        run: |
-          echo "Triggered at $(date -u)" >> timestamp.log
-          git config user.name "OFXIV"
-          git config user.email "3842643@gmail.com"
-          git add timestamp.log
-          git commit -m "Update timestamp"
-          git push origin main
+      - name: Check date
+        run: date
+      - name: Echo test
+        run: echo "GitHub Cron is working!"
