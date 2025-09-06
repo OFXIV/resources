@@ -2,9 +2,7 @@ name: Test Cron
 
 on:
   schedule:
-    # 每天 UTC 时间 0 点执行一次
     - cron: '*/5 * * * *'
-  workflow_dispatch: # 手动触发测试用
 
 jobs:
   test:
