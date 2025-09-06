@@ -1,0 +1,19 @@
+name: Cron Test
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Write timestamp
+        run: |
+          echo "Triggered at $(date -u)" >> timestamp.log
+          git config user.name "OFXIV"
+          git config user.email "3842643@gmail.com"
+          git add timestamp.log
+          git commit -m "Update timestamp"
+          git push origin main
