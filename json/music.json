@@ -1,5 +1,13 @@
 [
   {
+    "name": "你不再是我的月亮",
+    "artist": "庄东茹（豆芽鱼）",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%BD%A0%E4%B8%8D%E5%86%8D%E6%98%AF%E6%88%91%E7%9A%84%E6%9C%88%E4%BA%AE.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E4%BD%A0%E4%B8%8D%E5%86%8D%E6%98%AF%E6%88%91%E7%9A%84%E6%9C%88%E4%BA%AE.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E4%BD%A0%E4%B8%8D%E5%86%8D%E6%98%AF%E6%88%91%E7%9A%84%E6%9C%88%E4%BA%AE.lrc",
+    "filename": ""
+  },
+  {
     "name": "Hide Away",
     "artist": "Daya",
     "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hide%20Away.flac",
@@ -8,100 +16,92 @@
     "filename": ""
   },
   {
-    "name": "Glitch In The Simulation",
-    "artist": "Gryffin/salem ilese",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Glitch%20In%20The%20Simulation.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/Glitch%20In%20The%20Simulation.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/Glitch%20In%20The%20Simulation.lrc",
-    "filename": ""
+    "name": "Этаж",
+    "artist": "CRASPORE/chernoburkv",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%D0%AD%D1%82%D0%B0%D0%B6%20-%20CRASPORE_chernoburkv.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%D0%AD%D1%82%D0%B0%D0%B6%20-%20CRASPORE_chernoburkv.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%D0%AD%D1%82%D0%B0%D0%B6%20-%20CRASPORE_chernoburkv.lrc",
+    "filename": "Этаж - CRASPORE_chernoburkv"
   },
   {
-    "name": "To the Sky",
-    "artist": "JigglePuff",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/To%20the%20Sky.mp3",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/To%20the%20Sky.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/To%20the%20Sky.lrc",
-    "filename": ""
+    "name": "八月の蛍",
+    "artist": "HACHI",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.lrc",
+    "filename": "八月の蛍 - HACHI"
   },
   {
-    "name": "清明雨上",
-    "artist": "许嵩",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A%20-%20%E8%AE%B8%E5%B5%A9.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A%20-%20%E8%AE%B8%E5%B5%A9.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B8%85%E6%98%8E%E9%9B%A8%E4%B8%8A%20-%20%E8%AE%B8%E5%B5%A9.lrc",
-    "filename": "清明雨上 - 许嵩"
+    "name": "疯癫少女",
+    "artist": "刀酱",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.lrc",
+    "filename": "疯癫少女 - 刀酱"
   },
   {
-    "name": "About Me",
-    "artist": "AViVA",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/About%20Me%20-%20AViVA.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/About%20Me%20-%20AViVA.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/About%20Me%20-%20AViVA.lrc",
-    "filename": "About Me - AViVA"
+    "name": "Pretty Stranger (VIP)",
+    "artist": "Prismo",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Pretty%20Stranger%20%28VIP%29%20-%20Prismo.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Pretty%20Stranger%20%28VIP%29%20-%20Prismo.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Pretty%20Stranger%20%28VIP%29%20-%20Prismo.lrc",
+    "filename": "Pretty Stranger (VIP) - Prismo"
   },
   {
-    "name": "不属于地球上的",
-    "artist": "江楠江楠_",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.lrc",
-    "filename": "不属于地球上的 - 江楠江楠_"
+    "name": "大眠",
+    "artist": "王心凌",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.lrc",
+    "filename": "大眠 - 王心凌"
   },
   {
-    "name": "香格里拉",
-    "artist": "魏如萱",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%20-%20%E9%AD%8F%E5%A6%82%E8%90%B1.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%20-%20%E9%AD%8F%E5%A6%82%E8%90%B1.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%20-%20%E9%AD%8F%E5%A6%82%E8%90%B1.lrc",
-    "filename": "香格里拉 - 魏如萱"
+    "name": "时间海",
+    "artist": "刘大拿",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.lrc",
+    "filename": "时间海 - 刘大拿"
   },
   {
-    "name": "FALLIN′",
-    "artist": "Lovelyz",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.lrc",
-    "filename": "FALLIN′ - Lovelyz"
+    "name": "The Fall",
+    "artist": "The Chainsmokers/Ship Wrek",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.lrc",
+    "filename": "The Fall - The Chainsmokers_Ship Wrek"
   },
   {
-    "name": "对谁说爱",
-    "artist": "苏星婕",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AF%B9%E8%B0%81%E8%AF%B4%E7%88%B1%20-%20%E8%8B%8F%E6%98%9F%E5%A9%95.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AF%B9%E8%B0%81%E8%AF%B4%E7%88%B1%20-%20%E8%8B%8F%E6%98%9F%E5%A9%95.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AF%B9%E8%B0%81%E8%AF%B4%E7%88%B1%20-%20%E8%8B%8F%E6%98%9F%E5%A9%95.lrc",
-    "filename": "对谁说爱 - 苏星婕"
+    "name": "淋雨一直走",
+    "artist": "张韶涵",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.lrc",
+    "filename": "淋雨一直走 - 张韶涵"
   },
   {
-    "name": "写不完的温柔",
-    "artist": "G.E.M.邓紫棋",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.lrc",
-    "filename": "写不完的温柔 - G.E.M.邓紫棋"
+    "name": "达尔文·2022",
+    "artist": "yihuik苡慧",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.lrc",
+    "filename": "达尔文·2022 - yihuik苡慧"
   },
   {
-    "name": "一格格",
-    "artist": "卫兰",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.lrc",
-    "filename": "一格格 - 卫兰"
+    "name": "BABYDOLL",
+    "artist": "Ari Abdul",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.lrc",
+    "filename": "BABYDOLL - Ari Abdul"
   },
   {
-    "name": "溯 (Reverse)",
-    "artist": "CORSAK胡梦周/马吟吟",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%BA%AF%20%28Reverse%29%20-%20CORSAK%E8%83%A1%E6%A2%A6%E5%91%A8_%E9%A9%AC%E5%90%9F%E5%90%9F.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%BA%AF%20%28Reverse%29%20-%20CORSAK%E8%83%A1%E6%A2%A6%E5%91%A8_%E9%A9%AC%E5%90%9F%E5%90%9F.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%BA%AF%20%28Reverse%29%20-%20CORSAK%E8%83%A1%E6%A2%A6%E5%91%A8_%E9%A9%AC%E5%90%9F%E5%90%9F.lrc",
-    "filename": "溯 (Reverse) - CORSAK胡梦周_马吟吟"
-  },
-  {
-    "name": "Blue mood",
-    "artist": "entoy/suru",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Blue%20mood%20-%20entoy_suru.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Blue%20mood%20-%20entoy_suru.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Blue%20mood%20-%20entoy_suru.lrc",
-    "filename": "Blue mood - entoy_suru"
+    "name": "Dehors",
+    "artist": "JORDANN",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Dehors%20-%20JORDANN.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Dehors%20-%20JORDANN.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Dehors%20-%20JORDANN.lrc",
+    "filename": "Dehors - JORDANN"
   },
   {
     "name": "Polaris",
