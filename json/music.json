@@ -1,27 +1,51 @@
 [
   {
-    "name": "This Love",
-    "artist": "Taylor Swift",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/This%20Love.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/This%20Love.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/This%20Love.lrc",
+    "name": "爱丫爱丫",
+    "artist": "By2",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.lrc",
     "filename": ""
   },
   {
-    "name": "Start Up",
-    "artist": "Jonathan & Friends/Loote/EMMA LOV",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.lrc",
-    "filename": "Start Up - Jonathan & Friends_Loote_EMMA LOV"
+    "name": "唯一",
+    "artist": "G.E.M.邓紫棋",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.lrc",
+    "filename": "唯一 - G.E.M.邓紫棋"
   },
   {
-    "name": "Stranger Love (Original Mix)",
-    "artist": "Robin Novaku",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Stranger%20Love%20%28Original%20Mix%29%20-%20Robin%20Novaku.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Stranger%20Love%20%28Original%20Mix%29%20-%20Robin%20Novaku.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Stranger%20Love%20%28Original%20Mix%29%20-%20Robin%20Novaku.lrc",
-    "filename": "Stranger Love (Original Mix) - Robin Novaku"
+    "name": "Hands (Diviners Remix)",
+    "artist": "Gareth Emery/London Thor/Diviners/Alastor",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.lrc",
+    "filename": "Hands (Diviners Remix) - Gareth Emery_London Thor_Diviners_Alastor"
+  },
+  {
+    "name": "自由 Part II",
+    "artist": "Quinn葵因",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.lrc",
+    "filename": "自由 Part II - Quinn葵因"
+  },
+  {
+    "name": "我总是",
+    "artist": "云汐",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.lrc",
+    "filename": "我总是 - 云汐"
+  },
+  {
+    "name": "the loser",
+    "artist": "zach farache",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/the%20loser%20-%20zach%20farache.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/the%20loser%20-%20zach%20farache.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/the%20loser%20-%20zach%20farache.lrc",
+    "filename": "the loser - zach farache"
   },
   {
     "name": "Funny",
@@ -32,83 +56,59 @@
     "filename": "Funny - Zedd_Jasmine Thompson"
   },
   {
-    "name": "背叛",
-    "artist": "曹格",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%83%8C%E5%8F%9B%20-%20%E6%9B%B9%E6%A0%BC.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%83%8C%E5%8F%9B%20-%20%E6%9B%B9%E6%A0%BC.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%83%8C%E5%8F%9B%20-%20%E6%9B%B9%E6%A0%BC.lrc",
-    "filename": "背叛 - 曹格"
+    "name": "Things You Said",
+    "artist": "Cody Fry/Abby Cates",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.lrc",
+    "filename": "Things You Said - Cody Fry_Abby Cates"
   },
   {
-    "name": "Call of Silence",
-    "artist": "澤野弘之/R!N/Gemie",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.lrc",
-    "filename": "Call of Silence - 澤野弘之_R!N_Gemie"
+    "name": "像鱼",
+    "artist": "王贰浪",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.lrc",
+    "filename": "像鱼 - 王贰浪"
   },
   {
-    "name": "骂醒我·2022",
-    "artist": "刘大拿/Aioz",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.lrc",
-    "filename": "骂醒我·2022 - 刘大拿_Aioz"
+    "name": "putting a spin on payphone",
+    "artist": "Egg",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/putting%20a%20spin%20on%20payphone%20-%20Egg.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/putting%20a%20spin%20on%20payphone%20-%20Egg.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/putting%20a%20spin%20on%20payphone%20-%20Egg.lrc",
+    "filename": "putting a spin on payphone - Egg"
   },
   {
-    "name": "Choose to Believe",
-    "artist": "RØYLS",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Choose%20to%20Believe%20-%20R%C3%98YLS.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Choose%20to%20Believe%20-%20R%C3%98YLS.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Choose%20to%20Believe%20-%20R%C3%98YLS.lrc",
-    "filename": "Choose to Believe - RØYLS"
+    "name": "不怕",
+    "artist": "Sasablue",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.lrc",
+    "filename": "不怕 - Sasablue"
   },
   {
-    "name": "Lion",
-    "artist": "HVOB",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.lrc",
-    "filename": "Lion - HVOB"
+    "name": "Would You",
+    "artist": "The Vamps",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Would%20You%20-%20The%20Vamps.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Would%20You%20-%20The%20Vamps.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Would%20You%20-%20The%20Vamps.lrc",
+    "filename": "Would You - The Vamps"
   },
   {
-    "name": "Forget to Forget",
-    "artist": "SHY Martin",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.lrc",
-    "filename": "Forget to Forget - SHY Martin"
+    "name": "最后一页（爱只能在回忆里完整）",
+    "artist": "洛尘鞅_",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5%EF%BC%88%E7%88%B1%E5%8F%AA%E8%83%BD%E5%9C%A8%E5%9B%9E%E5%BF%86%E9%87%8C%E5%AE%8C%E6%95%B4%EF%BC%89%20-%20%E6%B4%9B%E5%B0%98%E9%9E%85_.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5%EF%BC%88%E7%88%B1%E5%8F%AA%E8%83%BD%E5%9C%A8%E5%9B%9E%E5%BF%86%E9%87%8C%E5%AE%8C%E6%95%B4%EF%BC%89%20-%20%E6%B4%9B%E5%B0%98%E9%9E%85_.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5%EF%BC%88%E7%88%B1%E5%8F%AA%E8%83%BD%E5%9C%A8%E5%9B%9E%E5%BF%86%E9%87%8C%E5%AE%8C%E6%95%B4%EF%BC%89%20-%20%E6%B4%9B%E5%B0%98%E9%9E%85_.lrc",
+    "filename": "最后一页（爱只能在回忆里完整） - 洛尘鞅_"
   },
   {
-    "name": "淋雨一直走",
-    "artist": "张韶涵",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.lrc",
-    "filename": "淋雨一直走 - 张韶涵"
-  },
-  {
-    "name": "达尔文·2022",
-    "artist": "yihuik苡慧",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.lrc",
-    "filename": "达尔文·2022 - yihuik苡慧"
-  },
-  {
-    "name": "i still think of you",
-    "artist": "Emptiness",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.lrc",
-    "filename": "i still think of you - Emptiness"
-  },
-  {
-    "name": "向云端",
-    "artist": "小霞/海洋Bo",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.lrc",
-    "filename": "向云端 - 小霞_海洋Bo"
+    "name": "Polaris",
+    "artist": "Asia D/JAMMERC",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.lrc",
+    "filename": "Polaris - Asia D_JAMMERC"
   }
 ]
