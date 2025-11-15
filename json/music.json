@@ -1,11 +1,19 @@
 [
   {
-    "name": "蚍蜉",
-    "artist": "花粥",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%9A%8D%E8%9C%89%20-%20%E8%8A%B1%E7%B2%A5.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%9A%8D%E8%9C%89%20-%20%E8%8A%B1%E7%B2%A5.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%9A%8D%E8%9C%89%20-%20%E8%8A%B1%E7%B2%A5.lrc",
-    "filename": "蚍蜉 - 花粥"
+    "name": "Sakura",
+    "artist": "R3HAB",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sakura%20-%20R3HAB.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sakura%20-%20R3HAB.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sakura%20-%20R3HAB.lrc",
+    "filename": "Sakura - R3HAB"
+  },
+  {
+    "name": "我的名字",
+    "artist": "焦迈奇",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97.lrc",
+    "filename": ""
   },
   {
     "name": "爱我还是他",
@@ -16,36 +24,44 @@
     "filename": "爱我还是他 - 陶喆"
   },
   {
-    "name": "绿光",
-    "artist": "孙燕姿",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%BB%BF%E5%85%89%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%BB%BF%E5%85%89%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%BB%BF%E5%85%89%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.lrc",
-    "filename": "绿光 - 孙燕姿"
+    "name": "我恋爱了",
+    "artist": "张韶涵",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.lrc",
+    "filename": "我恋爱了 - 张韶涵"
   },
   {
-    "name": "Sweet but Psycho (Acoustic)",
-    "artist": "Ava Max",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20but%20Psycho%20%28Acoustic%29%20-%20Ava%20Max.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20but%20Psycho%20%28Acoustic%29%20-%20Ava%20Max.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20but%20Psycho%20%28Acoustic%29%20-%20Ava%20Max.lrc",
-    "filename": "Sweet but Psycho (Acoustic) - Ava Max"
+    "name": "Loving Hannah",
+    "artist": "Isobel Campbell",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Loving%20Hannah%20-%20Isobel%20Campbell.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Loving%20Hannah%20-%20Isobel%20Campbell.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Loving%20Hannah%20-%20Isobel%20Campbell.lrc",
+    "filename": "Loving Hannah - Isobel Campbell"
   },
   {
-    "name": "Symphony",
-    "artist": "Donna Tella/Arc North",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.lrc",
-    "filename": "Symphony - Donna Tella_Arc North"
+    "name": "不属于地球上的",
+    "artist": "江楠江楠_",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%9C%B0%E7%90%83%E4%B8%8A%E7%9A%84%20-%20%E6%B1%9F%E6%A5%A0%E6%B1%9F%E6%A5%A0_.lrc",
+    "filename": "不属于地球上的 - 江楠江楠_"
   },
   {
-    "name": "ハレハレヤ（朗朗晴天）",
-    "artist": "芝麻Mochi",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC%E3%83%A4%EF%BC%88%E6%9C%97%E6%9C%97%E6%99%B4%E5%A4%A9%EF%BC%89%20-%20%E8%8A%9D%E9%BA%BBMochi.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC%E3%83%A4%EF%BC%88%E6%9C%97%E6%9C%97%E6%99%B4%E5%A4%A9%EF%BC%89%20-%20%E8%8A%9D%E9%BA%BBMochi.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E3%83%8F%E3%83%AC%E3%83%8F%E3%83%AC%E3%83%A4%EF%BC%88%E6%9C%97%E6%9C%97%E6%99%B4%E5%A4%A9%EF%BC%89%20-%20%E8%8A%9D%E9%BA%BBMochi.lrc",
-    "filename": "ハレハレヤ（朗朗晴天） - 芝麻Mochi"
+    "name": "泰菲之歌",
+    "artist": "哦呼w",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.lrc",
+    "filename": "泰菲之歌 - 哦呼w"
+  },
+  {
+    "name": "FALLIN′",
+    "artist": "Lovelyz",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.lrc",
+    "filename": "FALLIN′ - Lovelyz"
   },
   {
     "name": "麦当劳道没有麦当劳",
@@ -56,22 +72,6 @@
     "filename": "麦当劳道没有麦当劳 - 庄东茹（豆芽鱼）"
   },
   {
-    "name": "海市蜃楼",
-    "artist": "Vicky宣宣",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.lrc",
-    "filename": "海市蜃楼 - Vicky宣宣"
-  },
-  {
-    "name": "时间海",
-    "artist": "刘大拿",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%97%B6%E9%97%B4%E6%B5%B7%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF.lrc",
-    "filename": "时间海 - 刘大拿"
-  },
-  {
     "name": "The Fall",
     "artist": "The Chainsmokers/Ship Wrek",
     "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.flac",
@@ -80,12 +80,20 @@
     "filename": "The Fall - The Chainsmokers_Ship Wrek"
   },
   {
-    "name": "Forget to Forget",
-    "artist": "SHY Martin",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Forget%20to%20Forget%20-%20SHY%20Martin.lrc",
-    "filename": "Forget to Forget - SHY Martin"
+    "name": "C U Again",
+    "artist": "CartoonJéjaMikk MäeFuturistik",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.lrc",
+    "filename": "C U Again - CartoonJéjaMikk MäeFuturistik"
+  },
+  {
+    "name": "淋雨一直走",
+    "artist": "张韶涵",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B7%8B%E9%9B%A8%E4%B8%80%E7%9B%B4%E8%B5%B0%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.lrc",
+    "filename": "淋雨一直走 - 张韶涵"
   },
   {
     "name": "No Matter What",
@@ -96,19 +104,11 @@
     "filename": "No Matter What - Bougenvilla_Albert Neve_David Puentez"
   },
   {
-    "name": "Touch",
-    "artist": "3LAU/Carly Paige",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.lrc",
-    "filename": "Touch - 3LAU_Carly Paige"
-  },
-  {
-    "name": "予你",
-    "artist": "队长",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%BA%88%E4%BD%A0%20-%20%E9%98%9F%E9%95%BF.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%BA%88%E4%BD%A0%20-%20%E9%98%9F%E9%95%BF.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%BA%88%E4%BD%A0%20-%20%E9%98%9F%E9%95%BF.lrc",
-    "filename": "予你 - 队长"
+    "name": "向云端",
+    "artist": "小霞/海洋Bo",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.lrc",
+    "filename": "向云端 - 小霞_海洋Bo"
   }
 ]
