@@ -1,27 +1,51 @@
 [
   {
-    "name": "爱丫爱丫",
-    "artist": "By2",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E7%88%B1%E4%B8%AB%E7%88%B1%E4%B8%AB.lrc",
+    "name": "Arcade",
+    "artist": "Duncan Laurence,FLETCHER",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Arcade.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/Arcade.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/Arcade.lrc",
     "filename": ""
   },
   {
-    "name": "我怀念的",
-    "artist": "AKA/wen酱",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84%20-%20AKA_wen%E9%85%B1.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84%20-%20AKA_wen%E9%85%B1.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84%20-%20AKA_wen%E9%85%B1.lrc",
-    "filename": "我怀念的 - AKA_wen酱"
+    "name": "自由 Part II",
+    "artist": "Quinn葵因",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.lrc",
+    "filename": "自由 Part II - Quinn葵因"
   },
   {
-    "name": "我恋爱了",
-    "artist": "张韶涵",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%81%8B%E7%88%B1%E4%BA%86%20-%20%E5%BC%A0%E9%9F%B6%E6%B6%B5.lrc",
-    "filename": "我恋爱了 - 张韶涵"
+    "name": "别再问我什么是迪斯科",
+    "artist": "张蔷",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%88%AB%E5%86%8D%E9%97%AE%E6%88%91%E4%BB%80%E4%B9%88%E6%98%AF%E8%BF%AA%E6%96%AF%E7%A7%91%20-%20%E5%BC%A0%E8%94%B7.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%88%AB%E5%86%8D%E9%97%AE%E6%88%91%E4%BB%80%E4%B9%88%E6%98%AF%E8%BF%AA%E6%96%AF%E7%A7%91%20-%20%E5%BC%A0%E8%94%B7.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%88%AB%E5%86%8D%E9%97%AE%E6%88%91%E4%BB%80%E4%B9%88%E6%98%AF%E8%BF%AA%E6%96%AF%E7%A7%91%20-%20%E5%BC%A0%E8%94%B7.lrc",
+    "filename": "别再问我什么是迪斯科 - 张蔷"
+  },
+  {
+    "name": "爱我还是他",
+    "artist": "陶喆",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.lrc",
+    "filename": "爱我还是他 - 陶喆"
+  },
+  {
+    "name": "谁能告诉我",
+    "artist": "鸡蛋没蛋黄",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.lrc",
+    "filename": "谁能告诉我 - 鸡蛋没蛋黄"
+  },
+  {
+    "name": "我总是",
+    "artist": "云汐",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E6%80%BB%E6%98%AF%20-%20%E4%BA%91%E6%B1%90.lrc",
+    "filename": "我总是 - 云汐"
   },
   {
     "name": "不属于地球上的",
@@ -32,14 +56,6 @@
     "filename": "不属于地球上的 - 江楠江楠_"
   },
   {
-    "name": "如果可以·2023",
-    "artist": "yihuik苡慧",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%C2%B72023%20-%20yihuik%E8%8B%A1%E6%85%A7.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%C2%B72023%20-%20yihuik%E8%8B%A1%E6%85%A7.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%C2%B72023%20-%20yihuik%E8%8B%A1%E6%85%A7.lrc",
-    "filename": "如果可以·2023 - yihuik苡慧"
-  },
-  {
     "name": "Start Up",
     "artist": "Jonathan & Friends/Loote/EMMA LOV",
     "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.flac",
@@ -48,67 +64,51 @@
     "filename": "Start Up - Jonathan & Friends_Loote_EMMA LOV"
   },
   {
-    "name": "Funny",
-    "artist": "Zedd/Jasmine Thompson",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.lrc",
-    "filename": "Funny - Zedd_Jasmine Thompson"
+    "name": "疯癫少女",
+    "artist": "刀酱",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%96%AF%E7%99%AB%E5%B0%91%E5%A5%B3%20-%20%E5%88%80%E9%85%B1.lrc",
+    "filename": "疯癫少女 - 刀酱"
   },
   {
-    "name": "写不完的温柔",
-    "artist": "G.E.M.邓紫棋",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B8%A9%E6%9F%94%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.lrc",
-    "filename": "写不完的温柔 - G.E.M.邓紫棋"
+    "name": "情歌",
+    "artist": "史一",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%83%85%E6%AD%8C%20-%20%E5%8F%B2%E4%B8%80.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%83%85%E6%AD%8C%20-%20%E5%8F%B2%E4%B8%80.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%83%85%E6%AD%8C%20-%20%E5%8F%B2%E4%B8%80.lrc",
+    "filename": "情歌 - 史一"
   },
   {
-    "name": "一格格",
-    "artist": "卫兰",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%BC%E6%A0%BC%20-%20%E5%8D%AB%E5%85%B0.lrc",
-    "filename": "一格格 - 卫兰"
+    "name": "与我无关",
+    "artist": "阿冗",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%20-%20%E9%98%BF%E5%86%97.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%20-%20%E9%98%BF%E5%86%97.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%20-%20%E9%98%BF%E5%86%97.lrc",
+    "filename": "与我无关 - 阿冗"
   },
   {
-    "name": "海市蜃楼",
-    "artist": "Vicky宣宣",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B5%B7%E5%B8%82%E8%9C%83%E6%A5%BC%20-%20Vicky%E5%AE%A3%E5%AE%A3.lrc",
-    "filename": "海市蜃楼 - Vicky宣宣"
+    "name": "骂醒我·2022",
+    "artist": "刘大拿/Aioz",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%AA%82%E9%86%92%E6%88%91%C2%B72022%20-%20%E5%88%98%E5%A4%A7%E6%8B%BF_Aioz.lrc",
+    "filename": "骂醒我·2022 - 刘大拿_Aioz"
   },
   {
-    "name": "若把你",
-    "artist": "Kirsty刘瑾睿",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.lrc",
-    "filename": "若把你 - Kirsty刘瑾睿"
+    "name": "17",
+    "artist": "Julia Michaels",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/17%20-%20Julia%20Michaels.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/17%20-%20Julia%20Michaels.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/17%20-%20Julia%20Michaels.lrc",
+    "filename": "17 - Julia Michaels"
   },
   {
-    "name": "把回忆拼好给你",
-    "artist": "王贰浪",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%8A%8A%E5%9B%9E%E5%BF%86%E6%8B%BC%E5%A5%BD%E7%BB%99%E4%BD%A0%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%8A%8A%E5%9B%9E%E5%BF%86%E6%8B%BC%E5%A5%BD%E7%BB%99%E4%BD%A0%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%8A%8A%E5%9B%9E%E5%BF%86%E6%8B%BC%E5%A5%BD%E7%BB%99%E4%BD%A0%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.lrc",
-    "filename": "把回忆拼好给你 - 王贰浪"
-  },
-  {
-    "name": "Touch",
-    "artist": "3LAU/Carly Paige",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Touch%20-%203LAU_Carly%20Paige.lrc",
-    "filename": "Touch - 3LAU_Carly Paige"
-  },
-  {
-    "name": "心许百年",
-    "artist": "王天戈",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%BF%83%E8%AE%B8%E7%99%BE%E5%B9%B4%20-%20%E7%8E%8B%E5%A4%A9%E6%88%88.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%BF%83%E8%AE%B8%E7%99%BE%E5%B9%B4%20-%20%E7%8E%8B%E5%A4%A9%E6%88%88.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%BF%83%E8%AE%B8%E7%99%BE%E5%B9%B4%20-%20%E7%8E%8B%E5%A4%A9%E6%88%88.lrc",
-    "filename": "心许百年 - 王天戈"
+    "name": "天若有情（女声版）",
+    "artist": "高杰杰杰杰",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A9%E8%8B%A5%E6%9C%89%E6%83%85%EF%BC%88%E5%A5%B3%E5%A3%B0%E7%89%88%EF%BC%89%20-%20%E9%AB%98%E6%9D%B0%E6%9D%B0%E6%9D%B0%E6%9D%B0.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A9%E8%8B%A5%E6%9C%89%E6%83%85%EF%BC%88%E5%A5%B3%E5%A3%B0%E7%89%88%EF%BC%89%20-%20%E9%AB%98%E6%9D%B0%E6%9D%B0%E6%9D%B0%E6%9D%B0.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A9%E8%8B%A5%E6%9C%89%E6%83%85%EF%BC%88%E5%A5%B3%E5%A3%B0%E7%89%88%EF%BC%89%20-%20%E9%AB%98%E6%9D%B0%E6%9D%B0%E6%9D%B0%E6%9D%B0.lrc",
+    "filename": "天若有情（女声版） - 高杰杰杰杰"
   }
 ]
