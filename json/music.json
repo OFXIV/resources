@@ -1,27 +1,43 @@
 [
   {
-    "name": "必杀技",
-    "artist": "古巨基",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%BF%85%E6%9D%80%E6%8A%80.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E5%BF%85%E6%9D%80%E6%8A%80.JPG",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E5%BF%85%E6%9D%80%E6%8A%80.lrc",
+    "name": "Hide Away",
+    "artist": "Daya",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hide%20Away.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/Hide%20Away.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/Hide%20Away.lrc",
     "filename": ""
   },
   {
-    "name": "我的未来式",
-    "artist": "郭采洁",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%BC%8F%20-%20%E9%83%AD%E9%87%87%E6%B4%81.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%BC%8F%20-%20%E9%83%AD%E9%87%87%E6%B4%81.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%88%91%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%BC%8F%20-%20%E9%83%AD%E9%87%87%E6%B4%81.lrc",
-    "filename": "我的未来式 - 郭采洁"
+    "name": "To the Sky",
+    "artist": "JigglePuff",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/To%20the%20Sky.mp3",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/To%20the%20Sky.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/To%20the%20Sky.lrc",
+    "filename": ""
   },
   {
-    "name": "Cachel Wood",
-    "artist": "Isobel Campbell",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.lrc",
-    "filename": "Cachel Wood - Isobel Campbell"
+    "name": "落 (花开花落日升日没)",
+    "artist": "唐伯虎Annie",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%90%BD%20%28%E8%8A%B1%E5%BC%80%E8%8A%B1%E8%90%BD%E6%97%A5%E5%8D%87%E6%97%A5%E6%B2%A1%29.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E8%90%BD%20%28%E8%8A%B1%E5%BC%80%E8%8A%B1%E8%90%BD%E6%97%A5%E5%8D%87%E6%97%A5%E6%B2%A1%29.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E8%90%BD%20%28%E8%8A%B1%E5%BC%80%E8%8A%B1%E8%90%BD%E6%97%A5%E5%8D%87%E6%97%A5%E6%B2%A1%29.lrc",
+    "filename": ""
+  },
+  {
+    "name": "好心分手",
+    "artist": "王力宏/卢巧音",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A5%BD%E5%BF%83%E5%88%86%E6%89%8B%20-%20%E7%8E%8B%E5%8A%9B%E5%AE%8F_%E5%8D%A2%E5%B7%A7%E9%9F%B3.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A5%BD%E5%BF%83%E5%88%86%E6%89%8B%20-%20%E7%8E%8B%E5%8A%9B%E5%AE%8F_%E5%8D%A2%E5%B7%A7%E9%9F%B3.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A5%BD%E5%BF%83%E5%88%86%E6%89%8B%20-%20%E7%8E%8B%E5%8A%9B%E5%AE%8F_%E5%8D%A2%E5%B7%A7%E9%9F%B3.lrc",
+    "filename": "好心分手 - 王力宏_卢巧音"
+  },
+  {
+    "name": "第一天",
+    "artist": "孙燕姿",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%AC%AC%E4%B8%80%E5%A4%A9%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%AC%AC%E4%B8%80%E5%A4%A9%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%AC%AC%E4%B8%80%E5%A4%A9%20-%20%E5%AD%99%E7%87%95%E5%A7%BF.lrc",
+    "filename": "第一天 - 孙燕姿"
   },
   {
     "name": "香格里拉",
@@ -32,36 +48,36 @@
     "filename": "香格里拉 - 魏如萱"
   },
   {
-    "name": "泰菲之歌",
-    "artist": "哦呼w",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%B3%B0%E8%8F%B2%E4%B9%8B%E6%AD%8C%20-%20%E5%93%A6%E5%91%BCw.lrc",
-    "filename": "泰菲之歌 - 哦呼w"
+    "name": "Lose You Now",
+    "artist": "Lindsey Stirling/Mako",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.lrc",
+    "filename": "Lose You Now - Lindsey Stirling_Mako"
   },
   {
-    "name": "Symphony",
-    "artist": "Donna Tella/Arc North",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Symphony%20-%20Donna%20Tella_Arc%20North.lrc",
-    "filename": "Symphony - Donna Tella_Arc North"
+    "name": "Miss(feat.J1nX)",
+    "artist": "MrxUED/Janessa臻",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Miss%28feat.J1nX%29%20-%20MrxUED_Janessa%E8%87%BB.mp3",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Miss%28feat.J1nX%29%20-%20MrxUED_Janessa%E8%87%BB.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Miss%28feat.J1nX%29%20-%20MrxUED_Janessa%E8%87%BB.lrc",
+    "filename": "Miss(feat.J1nX) - MrxUED_Janessa臻"
   },
   {
-    "name": "FALLIN′",
-    "artist": "Lovelyz",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.lrc",
-    "filename": "FALLIN′ - Lovelyz"
+    "name": "这，就是爱",
+    "artist": "张杰",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BF%99%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%88%B1%20-%20%E5%BC%A0%E6%9D%B0.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BF%99%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%88%B1%20-%20%E5%BC%A0%E6%9D%B0.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BF%99%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%88%B1%20-%20%E5%BC%A0%E6%9D%B0.lrc",
+    "filename": "这，就是爱 - 张杰"
   },
   {
-    "name": "阳光下的星星",
-    "artist": "金海心",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E6%98%9F%E6%98%9F%20-%20%E9%87%91%E6%B5%B7%E5%BF%83.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E6%98%9F%E6%98%9F%20-%20%E9%87%91%E6%B5%B7%E5%BF%83.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E6%98%9F%E6%98%9F%20-%20%E9%87%91%E6%B5%B7%E5%BF%83.lrc",
-    "filename": "阳光下的星星 - 金海心"
+    "name": "像鱼",
+    "artist": "王贰浪",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.lrc",
+    "filename": "像鱼 - 王贰浪"
   },
   {
     "name": "Call of Silence",
@@ -72,12 +88,12 @@
     "filename": "Call of Silence - 澤野弘之_R!N_Gemie"
   },
   {
-    "name": "麦当劳道没有麦当劳",
-    "artist": "庄东茹（豆芽鱼）",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.lrc",
-    "filename": "麦当劳道没有麦当劳 - 庄东茹（豆芽鱼）"
+    "name": "Lion",
+    "artist": "HVOB",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lion%20-%20HVOB.lrc",
+    "filename": "Lion - HVOB"
   },
   {
     "name": "Perfect Version Of Me",
@@ -88,27 +104,11 @@
     "filename": "Perfect Version Of Me - Vicky宣宣"
   },
   {
-    "name": "i still think of you",
-    "artist": "Emptiness",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.lrc",
-    "filename": "i still think of you - Emptiness"
-  },
-  {
-    "name": "Neon Rainbow",
-    "artist": "Rameses B/Anna Yvette",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Neon%20Rainbow%20-%20Rameses%20B_Anna%20Yvette.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Neon%20Rainbow%20-%20Rameses%20B_Anna%20Yvette.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Neon%20Rainbow%20-%20Rameses%20B_Anna%20Yvette.lrc",
-    "filename": "Neon Rainbow - Rameses B_Anna Yvette"
-  },
-  {
-    "name": "BABYDOLL",
-    "artist": "Ari Abdul",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/BABYDOLL%20-%20Ari%20Abdul.lrc",
-    "filename": "BABYDOLL - Ari Abdul"
+    "name": "若把你",
+    "artist": "Kirsty刘瑾睿",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%8B%A5%E6%8A%8A%E4%BD%A0%20-%20Kirsty%E5%88%98%E7%91%BE%E7%9D%BF.lrc",
+    "filename": "若把你 - Kirsty刘瑾睿"
   }
 ]
