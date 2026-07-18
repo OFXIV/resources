@@ -1,13 +1,5 @@
 [
   {
-    "name": "2002",
-    "artist": "Anne-Marie",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.lrc",
-    "filename": "2002 - Anne-Marie"
-  },
-  {
     "name": "i walk this earth all by myself",
     "artist": "EKKSTACY",
     "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20walk%20this%20earth%20all%20by%20myself%20-%20EKKSTACY.flac",
@@ -16,12 +8,20 @@
     "filename": "i walk this earth all by myself - EKKSTACY"
   },
   {
-    "name": "小船",
-    "artist": "163braces",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%B0%8F%E8%88%B9.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E5%B0%8F%E8%88%B9.png",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E5%B0%8F%E8%88%B9.lrc",
+    "name": "必杀技",
+    "artist": "古巨基",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%BF%85%E6%9D%80%E6%8A%80.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E5%BF%85%E6%9D%80%E6%8A%80.JPG",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E5%BF%85%E6%9D%80%E6%8A%80.lrc",
     "filename": ""
+  },
+  {
+    "name": "唯一",
+    "artist": "G.E.M.邓紫棋",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%94%AF%E4%B8%80%20-%20G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B.lrc",
+    "filename": "唯一 - G.E.M.邓紫棋"
   },
   {
     "name": "Hands (Diviners Remix)",
@@ -32,28 +32,20 @@
     "filename": "Hands (Diviners Remix) - Gareth Emery_London Thor_Diviners_Alastor"
   },
   {
-    "name": "谁能告诉我",
-    "artist": "鸡蛋没蛋黄",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%20-%20%E9%B8%A1%E8%9B%8B%E6%B2%A1%E8%9B%8B%E9%BB%84.lrc",
-    "filename": "谁能告诉我 - 鸡蛋没蛋黄"
+    "name": "自由 Part II",
+    "artist": "Quinn葵因",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%87%AA%E7%94%B1%20Part%20II%20-%20Quinn%E8%91%B5%E5%9B%A0.lrc",
+    "filename": "自由 Part II - Quinn葵因"
   },
   {
-    "name": "八月の蛍",
-    "artist": "HACHI",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%85%AB%E6%9C%88%E3%81%AE%E8%9B%8D%20-%20HACHI.lrc",
-    "filename": "八月の蛍 - HACHI"
-  },
-  {
-    "name": "SPICA – Last Resort –",
-    "artist": "MUSIRISCA",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.mp3",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.lrc",
-    "filename": "SPICA – Last Resort – - MUSIRISCA"
+    "name": "Start Up",
+    "artist": "Jonathan & Friends/Loote/EMMA LOV",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Start%20Up%20-%20Jonathan%20%26%20Friends_Loote_EMMA%20LOV.lrc",
+    "filename": "Start Up - Jonathan & Friends_Loote_EMMA LOV"
   },
   {
     "name": "Stay Here Forever",
@@ -64,51 +56,59 @@
     "filename": "Stay Here Forever - Jewel"
   },
   {
-    "name": "大眠",
-    "artist": "王心凌",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%A4%A7%E7%9C%A0%20-%20%E7%8E%8B%E5%BF%83%E5%87%8C.lrc",
-    "filename": "大眠 - 王心凌"
+    "name": "Funny",
+    "artist": "Zedd/Jasmine Thompson",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Funny%20-%20Zedd_Jasmine%20Thompson.lrc",
+    "filename": "Funny - Zedd_Jasmine Thompson"
   },
   {
-    "name": "just for me",
-    "artist": "Ivoris",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.lrc",
-    "filename": "just for me - Ivoris"
+    "name": "安和桥",
+    "artist": "宋冬野",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.lrc",
+    "filename": "安和桥 - 宋冬野"
   },
   {
-    "name": "Lose You Now",
-    "artist": "Lindsey Stirling/Mako",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Lose%20You%20Now%20-%20Lindsey%20Stirling_Mako.lrc",
-    "filename": "Lose You Now - Lindsey Stirling_Mako"
+    "name": "和宇宙的温柔关联",
+    "artist": "房东的猫",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%92%8C%E5%AE%87%E5%AE%99%E7%9A%84%E6%B8%A9%E6%9F%94%E5%85%B3%E8%81%94%20-%20%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%92%8C%E5%AE%87%E5%AE%99%E7%9A%84%E6%B8%A9%E6%9F%94%E5%85%B3%E8%81%94%20-%20%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%92%8C%E5%AE%87%E5%AE%99%E7%9A%84%E6%B8%A9%E6%9F%94%E5%85%B3%E8%81%94%20-%20%E6%88%BF%E4%B8%9C%E7%9A%84%E7%8C%AB.lrc",
+    "filename": "和宇宙的温柔关联 - 房东的猫"
   },
   {
-    "name": "晚安",
-    "artist": "Joy",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%99%9A%E5%AE%89%20-%20Joy.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%99%9A%E5%AE%89%20-%20Joy.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E6%99%9A%E5%AE%89%20-%20Joy.lrc",
-    "filename": "晚安 - Joy"
+    "name": "Outside",
+    "artist": "Calvin Harris/Ellie Goulding",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Outside%20-%20Calvin%20Harris_Ellie%20Goulding.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Outside%20-%20Calvin%20Harris_Ellie%20Goulding.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Outside%20-%20Calvin%20Harris_Ellie%20Goulding.lrc",
+    "filename": "Outside - Calvin Harris_Ellie Goulding"
   },
   {
-    "name": "Sweet",
-    "artist": "Lulu S.",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..lrc",
-    "filename": "Sweet - Lulu S."
+    "name": "No Matter What",
+    "artist": "Bougenvilla/Albert Neve/David Puentez",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/No%20Matter%20What%20-%20Bougenvilla_Albert%20Neve_David%20Puentez.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/No%20Matter%20What%20-%20Bougenvilla_Albert%20Neve_David%20Puentez.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/No%20Matter%20What%20-%20Bougenvilla_Albert%20Neve_David%20Puentez.lrc",
+    "filename": "No Matter What - Bougenvilla_Albert Neve_David Puentez"
   },
   {
-    "name": "不怕",
-    "artist": "Sasablue",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%8D%E6%80%95%20-%20Sasablue.lrc",
-    "filename": "不怕 - Sasablue"
+    "name": "向云端",
+    "artist": "小霞/海洋Bo",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%90%91%E4%BA%91%E7%AB%AF%20-%20%E5%B0%8F%E9%9C%9E_%E6%B5%B7%E6%B4%8BBo.lrc",
+    "filename": "向云端 - 小霞_海洋Bo"
+  },
+  {
+    "name": "Polaris",
+    "artist": "Asia D/JAMMERC",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Polaris%20-%20Asia%20D_JAMMERC.lrc",
+    "filename": "Polaris - Asia D_JAMMERC"
   }
 ]
