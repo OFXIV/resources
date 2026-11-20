@@ -1,83 +1,35 @@
 [
   {
-    "name": "2002",
-    "artist": "Anne-Marie",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/2002%20-%20Anne-Marie.lrc",
-    "filename": "2002 - Anne-Marie"
+    "name": "Castle In Your Mind",
+    "artist": "Vicky宣宣",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Castle%20In%20Your%20Mind%20-%20Vicky%E5%AE%A3%E5%AE%A3.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Castle%20In%20Your%20Mind%20-%20Vicky%E5%AE%A3%E5%AE%A3.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Castle%20In%20Your%20Mind%20-%20Vicky%E5%AE%A3%E5%AE%A3.lrc",
+    "filename": "Castle In Your Mind - Vicky宣宣"
   },
   {
-    "name": "Hide Away",
-    "artist": "Daya",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hide%20Away.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/Hide%20Away.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/Hide%20Away.lrc",
+    "name": "一样的月光",
+    "artist": "徐佳莹",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E4%B8%80%E6%A0%B7%E7%9A%84%E6%9C%88%E5%85%89.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/%E4%B8%80%E6%A0%B7%E7%9A%84%E6%9C%88%E5%85%89.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/%E4%B8%80%E6%A0%B7%E7%9A%84%E6%9C%88%E5%85%89.lrc",
     "filename": ""
   },
   {
-    "name": "To the Sky",
-    "artist": "JigglePuff",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/To%20the%20Sky.mp3",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/pic/To%20the%20Sky.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/lrc/To%20the%20Sky.lrc",
-    "filename": ""
+    "name": "爱我还是他",
+    "artist": "陶喆",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E7%88%B1%E6%88%91%E8%BF%98%E6%98%AF%E4%BB%96%20-%20%E9%99%B6%E5%96%86.lrc",
+    "filename": "爱我还是他 - 陶喆"
   },
   {
-    "name": "Hands (Diviners Remix)",
-    "artist": "Gareth Emery/London Thor/Diviners/Alastor",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Hands%20%28Diviners%20Remix%29%20-%20Gareth%20Emery_London%20Thor_Diviners_Alastor.lrc",
-    "filename": "Hands (Diviners Remix) - Gareth Emery_London Thor_Diviners_Alastor"
-  },
-  {
-    "name": "Cachel Wood",
-    "artist": "Isobel Campbell",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Cachel%20Wood%20-%20Isobel%20Campbell.lrc",
-    "filename": "Cachel Wood - Isobel Campbell"
-  },
-  {
-    "name": "SPICA – Last Resort –",
-    "artist": "MUSIRISCA",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.mp3",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/SPICA%20%E2%80%93%20Last%20Resort%20%E2%80%93%20-%20MUSIRISCA.lrc",
-    "filename": "SPICA – Last Resort – - MUSIRISCA"
-  },
-  {
-    "name": "Things You Said",
-    "artist": "Cody Fry/Abby Cates",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Things%20You%20Said%20-%20Cody%20Fry_Abby%20Cates.lrc",
-    "filename": "Things You Said - Cody Fry_Abby Cates"
-  },
-  {
-    "name": "FALLIN′",
-    "artist": "Lovelyz",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/FALLIN%E2%80%B2%20-%20Lovelyz.lrc",
-    "filename": "FALLIN′ - Lovelyz"
-  },
-  {
-    "name": "Paskui Tave",
-    "artist": "Gjan",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Paskui%20Tave%20-%20Gjan.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Paskui%20Tave%20-%20Gjan.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Paskui%20Tave%20-%20Gjan.lrc",
-    "filename": "Paskui Tave - Gjan"
-  },
-  {
-    "name": "Sweet",
-    "artist": "Lulu S.",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Sweet%20-%20Lulu%20S..lrc",
-    "filename": "Sweet - Lulu S."
+    "name": "just for me",
+    "artist": "Ivoris",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/just%20for%20me%20-%20Ivoris.lrc",
+    "filename": "just for me - Ivoris"
   },
   {
     "name": "ハレハレヤ（朗朗晴天）",
@@ -88,20 +40,68 @@
     "filename": "ハレハレヤ（朗朗晴天） - 芝麻Mochi"
   },
   {
-    "name": "Roar",
-    "artist": "Katy Perry",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Roar%20-%20Katy%20Perry.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Roar%20-%20Katy%20Perry.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Roar%20-%20Katy%20Perry.lrc",
-    "filename": "Roar - Katy Perry"
+    "name": "像鱼",
+    "artist": "王贰浪",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%83%8F%E9%B1%BC%20-%20%E7%8E%8B%E8%B4%B0%E6%B5%AA.lrc",
+    "filename": "像鱼 - 王贰浪"
   },
   {
-    "name": "C U Again",
-    "artist": "CartoonJéjaMikk MäeFuturistik",
-    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.flac",
-    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.jpg",
-    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/C%20U%20Again%20-%20CartoonJ%C3%A9jaMikk%20M%C3%A4eFuturistik.lrc",
-    "filename": "C U Again - CartoonJéjaMikk MäeFuturistik"
+    "name": "安和桥",
+    "artist": "宋冬野",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%AE%89%E5%92%8C%E6%A1%A5%20-%20%E5%AE%8B%E5%86%AC%E9%87%8E.lrc",
+    "filename": "安和桥 - 宋冬野"
+  },
+  {
+    "name": "Call of Silence",
+    "artist": "澤野弘之/R!N/Gemie",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/Call%20of%20Silence%20-%20%E6%BE%A4%E9%87%8E%E5%BC%98%E4%B9%8B_R%21N_Gemie.lrc",
+    "filename": "Call of Silence - 澤野弘之_R!N_Gemie"
+  },
+  {
+    "name": "麦当劳道没有麦当劳",
+    "artist": "庄东茹（豆芽鱼）",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%81%93%E6%B2%A1%E6%9C%89%E9%BA%A6%E5%BD%93%E5%8A%B3%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.lrc",
+    "filename": "麦当劳道没有麦当劳 - 庄东茹（豆芽鱼）"
+  },
+  {
+    "name": "反正我也没什么关系",
+    "artist": "庄东茹（豆芽鱼）",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%8F%8D%E6%AD%A3%E6%88%91%E4%B9%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%8F%8D%E6%AD%A3%E6%88%91%E4%B9%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E5%8F%8D%E6%AD%A3%E6%88%91%E4%B9%9F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%20-%20%E5%BA%84%E4%B8%9C%E8%8C%B9%EF%BC%88%E8%B1%86%E8%8A%BD%E9%B1%BC%EF%BC%89.lrc",
+    "filename": "反正我也没什么关系 - 庄东茹（豆芽鱼）"
+  },
+  {
+    "name": "The Fall",
+    "artist": "The Chainsmokers/Ship Wrek",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/The%20Fall%20-%20The%20Chainsmokers_Ship%20Wrek.lrc",
+    "filename": "The Fall - The Chainsmokers_Ship Wrek"
+  },
+  {
+    "name": "达尔文·2022",
+    "artist": "yihuik苡慧",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/%E8%BE%BE%E5%B0%94%E6%96%87%C2%B72022%20-%20yihuik%E8%8B%A1%E6%85%A7.lrc",
+    "filename": "达尔文·2022 - yihuik苡慧"
+  },
+  {
+    "name": "i still think of you",
+    "artist": "Emptiness",
+    "url": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.flac",
+    "cover": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.jpg",
+    "lrc": "https://openlist.ofxiv.qzz.io/d/kuake/music/i%20still%20think%20of%20you%20-%20Emptiness.lrc",
+    "filename": "i still think of you - Emptiness"
   },
   {
     "name": "向云端",
